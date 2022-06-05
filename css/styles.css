@@ -55,3 +55,9 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+.carousel-caption  {
+    padding-bottom: 30px;
+    padding-left: 250px;
+    font-size: 20px;
+ }
