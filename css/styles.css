@@ -52,3 +52,18 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.carousel-caption {
+  padding-bottom: 30px;
+  padding-left: 250px;
+  font-size: 20px; }
+
+.modal-footer {
+  padding-left: 117px; }
+
+.modal-header {
+  background: darkslateblue;
+  color: floralwhite; }
+
+.modal-body {
+  background: #D1C4E9; }
